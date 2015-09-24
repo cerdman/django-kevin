@@ -81,6 +81,8 @@ THIRD_PARTY_APPS = (
 
 PROJECT_APPS = (
     'apps.accounts',
+    'apps.portfolio',
+    'apps.clinicaltrial'
 )
 
 EXTENSION_APPS = (
